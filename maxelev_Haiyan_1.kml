@@ -784,7 +784,7 @@
  </LinearRing> </outerBoundaryIs> </Polygon>
  <Style>
   <PolyStyle>
-   <color>#00ffffff</color>
+   <color>#a0ffffff</color>
   <outline>0</outline>
   </PolyStyle>
  </Style>
